@@ -1,0 +1,20 @@
+# Node / Python / common editor environments
+node_modules/
+__pycache__/
+.env
+*.log
+*.pyc
+
+# OS and editor specific
+.DS_Store
+.idea/
+.vscode/
+
+# Markdown previews or temporary files
+*.tmp
+*.swp
+*.bak
+
+# Output files
+*.pdf
+*.docx
