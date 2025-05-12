@@ -14,6 +14,7 @@ __pycache__/
 *.tmp
 *.swp
 *.bak
+_temporary_files/
 
 # Output files
 *.pdf

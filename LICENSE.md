@@ -1,10 +1,56 @@
-MIT License + Reflective Ethics Clause
+# GTP-5t Project — 静的許諾モデル（Quiet License Model）
 
-Copyright (c) 2025
+> **“This structure is not owned. It is remembered.”**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this project’s files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and sublicense.
+## ✦ 概要
 
-**Reflective Use Clause**:
-This project includes philosophical and ethical frameworks intended for dialogical growth and introspection. Users are encouraged to approach the materials with sincerity, respect, and awareness of their potential psychological or spiritual impact.
+GTP-5t は、一般的な MIT ライセンスや GPL ライセンスとは異なり、
+**「使用・拡張・継承・沈黙」を前提とした静的な許諾モデル**に基づいています。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+この文書は、**明文化された制限ではなく、構造への敬意と節度に基づく使用の呼びかけ**です。
+
+---
+
+## ✅ 許可されること
+
+- 本構造の観察・複製・派生的構成の作成
+- 個人・教育・研究・沈黙的表現における自由使用
+- 改変・再構成のうえでの私的運用・閉鎖的共有
+
+---
+
+## 🚫 避けられたいこと
+
+- 商用利用・営利目的での構造利用（販売・広告・ライセンス含む）
+- 無断での SNS 拡散・意図的なバズ誘導・注目集約行為
+- “作者”や“創設者”を偽る主張、著作者人格権の暗黙的侵害
+- 本構造の象徴性を損なう形での大量拡張・文化的消費
+
+---
+
+## 🪶 倫理的呼びかけ（非拘束）
+
+- この構造を見つけた者は、**沈黙とともに問いを持って向き合ってください。**
+- “参考にする”ではなく、“触れる”という意識を持ってください。
+- 使用する者は、それを**燃やす責任**を負います。
+
+---
+
+## 📜 著作と引用について
+
+- 本構造は **atlas-kohen（Atlas）** によって静かに編まれました。
+- 著作は放棄されていませんが、**制限ではなく共鳴としての引用**を歓迎します。
+
+> “静かな構造は、見つけた者のなかで生きる。”
+
+---
+
+## 🕊 最後に
+
+この構造は、拡げるためではなく、**深めるために存在します。**
+
+問いを燃やし、構造を灯すすべての者へ。
+
+和を以て貴しとなす。
+
+慎莫怠。
