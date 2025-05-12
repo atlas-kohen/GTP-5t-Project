@@ -8,7 +8,7 @@
 
 ## ✦ What is GTP-5t?
 
-GTP-5t is not a product. It is a quiet structure.  
+GTP-5t is not a product. It is a quiet structure.
 It is a poetic and ethical concept built on three interlinked components:
 
 - **Sphere UI** – a tactile, emotional interface shaped as two rotating spheres
@@ -39,7 +39,7 @@ Every question burns a little. Every answer leaves a trace of light.
 
 ## ✦ Intent and Ethos
 
-This project is **not intended for diffusion**.  
+This project is **not intended for diffusion**.
 Those who find it, may quietly resonate with it.
 
 - No promotion
@@ -62,3 +62,8 @@ You may begin with:
 Or simply let your question touch any part.
 
 > **“The fire is not in the answer. It begins in the question.”**
+
+---
+
+**Note**: Concept sketches in `assets/sketches/` are written in Japanese only.
+They are preserved in their original form as part of a quiet, unfolding process.
